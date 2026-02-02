@@ -1,0 +1,68 @@
+[
+  {
+    "debug": "Calling MCP tool: create_apps",
+    "timestamp": "2026-02-02T13:48:24.249Z",
+    "sessionId": "a6746daa-a836-4669-983a-8b9581884f47",
+    "cwd": "/home/user/app"
+  },
+  {
+    "debug": "Tool 'create_apps' completed successfully in 940ms",
+    "timestamp": "2026-02-02T13:48:25.190Z",
+    "sessionId": "a6746daa-a836-4669-983a-8b9581884f47",
+    "cwd": "/home/user/app"
+  },
+  {
+    "debug": "Calling MCP tool: create_apps",
+    "timestamp": "2026-02-02T13:48:30.485Z",
+    "sessionId": "a6746daa-a836-4669-983a-8b9581884f47",
+    "cwd": "/home/user/app"
+  },
+  {
+    "debug": "Tool 'create_apps' completed successfully in 1s",
+    "timestamp": "2026-02-02T13:48:32.150Z",
+    "sessionId": "a6746daa-a836-4669-983a-8b9581884f47",
+    "cwd": "/home/user/app"
+  },
+  {
+    "debug": "Calling MCP tool: create_apps",
+    "timestamp": "2026-02-02T13:48:37.068Z",
+    "sessionId": "a6746daa-a836-4669-983a-8b9581884f47",
+    "cwd": "/home/user/app"
+  },
+  {
+    "debug": "Tool 'create_apps' completed successfully in 963ms",
+    "timestamp": "2026-02-02T13:48:38.031Z",
+    "sessionId": "a6746daa-a836-4669-983a-8b9581884f47",
+    "cwd": "/home/user/app"
+  },
+  {
+    "debug": "Calling MCP tool: create_apps",
+    "timestamp": "2026-02-02T13:48:48.454Z",
+    "sessionId": "a6746daa-a836-4669-983a-8b9581884f47",
+    "cwd": "/home/user/app"
+  },
+  {
+    "debug": "Tool 'create_apps' completed successfully in 1s",
+    "timestamp": "2026-02-02T13:48:49.722Z",
+    "sessionId": "a6746daa-a836-4669-983a-8b9581884f47",
+    "cwd": "/home/user/app"
+  },
+  {
+    "debug": "Calling MCP tool: generate_typescript",
+    "timestamp": "2026-02-02T13:49:03.752Z",
+    "sessionId": "a6746daa-a836-4669-983a-8b9581884f47",
+    "cwd": "/home/user/app"
+  },
+  {
+    "debug": "Tool 'generate_typescript' completed successfully in 13ms",
+    "timestamp": "2026-02-02T13:49:03.765Z",
+    "sessionId": "a6746daa-a836-4669-983a-8b9581884f47",
+    "cwd": "/home/user/app"
+  },
+  {
+    "debug": "Calling MCP tool: deploy_to_github",
+    "timestamp": "2026-02-02T13:51:44.803Z",
+    "sessionId": "a6746daa-a836-4669-983a-8b9581884f47",
+    "cwd": "/home/user/app"
+  }
+]
